@@ -1,0 +1,14 @@
+# Ignored Files
+# ignored files don't get tracked in GitHub. Good for Sensitive info, personal notes or system files
+# To take care of ignoring files, you can create .gitignore file at root level of project
+
+# Create gitignore file and can add whatever we want to ignore in that file.
+
+# Global gitignore file
+## This is generally used in use cases where there are lot of projects.
+# In such case if we want to update any onboarded new projects with specific ignore files then we use the below mention command
+git config --global core.excludesfile <filename>   # this command will ignore/exclude the files mentioned in global ignore file.
+
+#clearing the Cache
+git rm -r --cached .
+

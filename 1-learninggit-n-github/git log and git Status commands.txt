@@ -1,0 +1,8 @@
+# git log and git Status commands
+git log
+# git log command will show the logs of the activities happened with details such as commit Id, branch, etc.
+
+git status
+
+# Better way to view logs in oneline
+git log --oneline
