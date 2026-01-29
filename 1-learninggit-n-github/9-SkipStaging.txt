@@ -1,0 +1,4 @@
+# To Skip staging area and directly commit to repo, use:
+git commit -a -m ""
+
+# Here, the -a stands for Add i.e add to stage and commit
