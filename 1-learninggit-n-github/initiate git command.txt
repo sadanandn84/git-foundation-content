@@ -1,4 +1,0 @@
-# initiate git command
-git init
-
-# the above command will create .git folder (hidden) with Config and other related files in the Project folder

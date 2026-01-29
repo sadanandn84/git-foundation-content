@@ -1,0 +1,15 @@
+# git config command
+git config --global user.name "user name"
+git config --global user.email "your email"
+
+git config --global core.editor vscode
+
+
+# To list all the config
+git config --list
+
+# To list all config related to only global
+git config --global --list
+
+# To know details of flags and other attributes about config command
+man git config

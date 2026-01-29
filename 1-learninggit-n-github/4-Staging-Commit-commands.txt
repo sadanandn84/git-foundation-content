@@ -1,0 +1,11 @@
+# Staging Files
+# Staging is temporary area where we store files that we want to commit later
+
+git add --all
+git add -A
+git add .
+git add <filename>
+
+
+# Git Commit command
+git commit -m "Some comment describing the file or commit action"

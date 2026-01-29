@@ -1,0 +1,16 @@
+# Deleting & Renaming files
+
+# To delete files use below command
+git rm <filename>  # this will add the file to staging area
+
+# now to restore this file use
+git restore -S . OR git restore --staged <filename>
+ # then 
+git restore
+
+# To rename the files, use
+git mv <filename> <new filename>
+
+# To restore back, use
+git mv <new file name> < old file name>
+ 
