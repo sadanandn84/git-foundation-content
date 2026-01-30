@@ -1,0 +1,13 @@
+# Remove/Delete & rename/move file using git commands
+
+# Because, if we just remove files with "rm filename" command then,
+# we have to first add to stage and then commit
+
+# But, if we are using the below commands, then the files are directly staged
+
+# To remove or delete
+git rm -f <filename>
+git rm -f <directory>/<filename>
+
+# To move/rename files
+git mv <currentfilename> <newfilename>

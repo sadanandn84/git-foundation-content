@@ -1,0 +1,3 @@
+# Git Ignore
+# To exclude or ignore the files that we don't want to commit, mention list of files or file patterns in .gitignore file
+# create .gitignore file, open and mention the files and folders which you want to ignore or don't want to commit

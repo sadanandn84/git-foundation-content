@@ -1,0 +1,11 @@
+# Difference between files
+
+# command
+git diff   # this will show changes done such as addition or deletion or movement of files.
+
+# What lines were added or removed
+# The above command will only show differences in previous and current versions of files only when the file is in Untracked or Modified stage
+# This will not show if the file is staged or added in staging area.
+
+# To see the differences in file that was staged or added to staging area, use the below command:
+git diff --staged

@@ -1,0 +1,2 @@
+# To Untrack and already tracked file, use below command
+git rm --cached <filename>
