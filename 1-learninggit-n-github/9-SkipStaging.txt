@@ -2,3 +2,4 @@
 git commit -a -m ""
 
 # Here, the -a stands for Add i.e add to stage and commit
+# this command doesn't work if the commit is Initial
