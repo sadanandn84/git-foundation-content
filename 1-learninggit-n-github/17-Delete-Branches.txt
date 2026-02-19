@@ -1,0 +1,6 @@
+# Delete Branches
+----------------
+
+git branch -d branchname      # Deleting a merged branch
+
+git branch -D branchname      # Deleting non merged branch

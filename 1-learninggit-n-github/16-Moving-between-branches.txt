@@ -1,0 +1,6 @@
+# Moving between branches
+
+git checkout <branchname>     # command to checkout and existing branch
+
+git checkout -b branchname    # This will create a new branch if branch doesn't exists and move directly to that branch
+

@@ -1,0 +1,9 @@
+# Git Branching
+
+# To get all branches in your project
+git branch
+
+git branch -v     # To know last OR recent commit in that Branch
+
+# To create new branch
+git branch <branchname>
